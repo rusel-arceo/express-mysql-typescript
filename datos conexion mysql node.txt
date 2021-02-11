@@ -1,0 +1,3 @@
+usaurio: user_us
+contra: entrar
+BD: node_db
